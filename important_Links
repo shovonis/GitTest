@@ -1,0 +1,64 @@
+Wednesday, April 2, 2014
+(14:09) nazrul Broadcast: please download Core Enitities.pptx file from nazrul:8000
+
+(14:31) nazrul Broadcast: An Introduction to Linux  - https://www.cac.cornell.edu/VW/Linux/default.aspx
+Thursday, April 3, 2014
+(15:59) nazrul Broadcast: http://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act
+(16:01) nazrul Broadcast: http://en.wikipedia.org/wiki/Protected_health_information
+Sunday, April 6, 2014
+(11:48) nazrul Broadcast: Log file location - logs@mt01:/prod-logs2/se-logs/therap-v-2014/29-Mar-2014-logs
+Wednesday, April 9, 2014
+(11:30) nazrul Broadcast: http://junit.sourceforge.net/doc/cookstour/cookstour.htm
+(16:42) nazrul Broadcast: http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf
+Wednesday, April 16, 2014
+(15:56) nazrul Broadcast: wget --user-agent Mozilla "http://www.google.ca/search?hl=en&q=tom"
+Thursday, May 1, 2014
+(12:25) nazrul Broadcast: nazrul:8000
+(16:16) nazrul Broadcast: Last Monday Shaown bhai took a class for freshers on "Oracle best practices for programmers". It might be beneficial to others as well. You can downlaod the slide and recorded videos of this session from http://nazrul:8000/
+Monday, May 5, 2014
+(11:44) nazrul Broadcast: My name is Kazi Rubaiat Imam, but you can call me Tanim, which is spelled everywhere as 'tanm'. Wait, it gets easier...
+
+I have been an employee in Therap since February 2004. Initially doing two things - content writing, and programming, and eventually ended up wholly on the programming side. I took a break in between to travel to Sweden for higher studies, and joined Therap again on August 2007, which is really like starting all over again, since the Therap I left behind had grown into a bigger, better company. Prior to Therap I worked in Grameen Software, which is now known as Grameen Solutions. My bachelors is from Multimedia University in Malaysia.
+
+I grew up in Chittagong. I love traveling, taking pictures (Flickr profile: tanm2006), watching movies, reading and writing (occassionally), and lastly, music (I play guitar). I have so far written two articles in two papers, one about IT and one about music (Financial Express and The New Age respectively), and also write to my blog at blogspot.
+
+I hope slowly to get to know a lot of you, if not everyone. 
+(11:45) nazrul Broadcast: ts very much pleasure to inform all of you about myself, I am Debashish Debnath Picklu & I joined in Therap on April 20, 2008 as Junior UNIX Administrator in the UNIX Team.
+
+I am very much glad that I can join in Therap as I always heard from my other university elder brothers and sisters about the company and they are really very much happy to give service in Therap. Again team of Therap also went to our university to inform ourselves about the activity of Therap. Then I got inspired by them and tried for job in Therap. This is my first job.
+
+I have completed my B.Sc in Computer Science and Engineering from East West University, Dhaka in 2007. In March 03, 2008 I got my convocation. I passed my Higher Secondary Certificate examination from Engineering University Higher Secondary School in 2001. It is also situated in Dhaka. I passed Secondary School Certificate examination from I. E. T. Government High School, Narayanganj in 1999.
+
+I was the member of Computer club of EWU and we arranged many programs & seminars at EWU. I am Life Long BLOOD donor of QUANTUM BLOOD BANK and I have donated blood 16 times and try to donate blood regularly as alternative of blood is only blood and donating of blood is not harmful at all. Rather it is very much good for health. I like to listen music mainly Ghazal by Jagjit Singh and watching movies mainly action movies and traveling is my another weakness. Whenever I get time I try visit places specially enjoying new places where I did not go earlier.
+
+Thats all about myself. I hope I will pass a great time in Therap as I found all the colleague is very much helpful and friendly.
+
+Thanks a lot for giving me time to introduce myself. Take care & may GOD bless all of us. 
+(11:45) nazrul Broadcast: I recently joined at Therap as a junior web developer in the Design Team. I like Therap's working environment, team playing concept. Some of the employers are my university friend and I am enjoying in working them.
+
+I completed my bachelor degree in CSE from BRAC University. My college was Dhaka residential model college and school was Dhanmondi Govt Boys High School.
+
+I love to learn new things, since I am a developer I like to do good coding which is updatable and easily changeable. Good coding design as well as visual design makes a product acceptable to all. And I always try develop software which is easy understandable to other developer to modify code and update the code to provide an update version of a software.
+
+The people I like most who are dedicated in his job or duty, honest, friendly, good looking. The people I hate most who tell a lie. 
+
+Tuesday, May 6, 2014
+(12:12) nazrul Broadcast:  1. http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/
+ 2. http://www.cubrid.org/blog/dev-platform/how-to-monitor-java-garbage-collection/
+ 3. http://www.cubrid.org/blog/dev-platform/how-to-tune-java-garbage-collection/
+(15:31) nazrul Broadcast: Suppose a gas station has a single toilet, the key for which is kept at the service desk. The toilet is a shared resource for passing motorists. To use this shared resource the prospective user must acquire a key to the lock on the toilet. The user goes to the service desk and acquires the key, opens the door, locks it from the inside and uses the facilities.
+
+Meanwhile, if a second prospective user arrives at the gas station he finds the toilet locked and therefore unavailable to him. He goes to the service desk but the key is not there because it is in the hands of the current user. When the current user finishes, he unlocks the door and returns the key to the service desk. He does not bother about waiting customers. The service desk gives thekey to the waiting customer. If more than one prospective user turns up while the toilet is locked, they must form a queue waiting for the key to the lock. Each thread has no idea who is in the toilet.
+
+Obviously in applying this analogy to Java, a Java thread is a user and the toilet is a block of code which the thread wishes to execute. Java provides a way to lock the code for a thread which is currently executing it using the synchorinized keywokd, and making other threads that wish to use it wait until the first thread is finished. These other threads are placed in the waiting state. Java is NOT AS FAIR as the service station because there is no queue for waiting threads. Any one of the waiting threads may get the monitor next, regardless of the order they asked for it. The only guarantee is that all threads will get to use the monitored code sooner or later.
+(18:10) nazrul Broadcast: http://www.vogella.com/tutorials/JavaConcurrency/article.html#threadpools
+Wednesday, May 7, 2014
+(12:06) nazrul Broadcast: https://www.owasp.org/index.php/WebScarab_Getting_Started
+
+(12:06) nazrul Broadcast: http://jmeter.apache.org/
+(12:29) nazrul Broadcast: nazrul:8000
+(17:55) nazrul Broadcast: Tomorro'w task - Cryptography Concepts: Encryption-Decryption, Public-Key Cryptography, SSH, SSL
+(From https://developer.mozilla.org/en/docs/Introduction_to_Public-Key_Cryptography
+http://www.slashroot.in/secure-shell-how-does-ssh-work)
+ 
+
